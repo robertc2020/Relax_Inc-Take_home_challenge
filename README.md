@@ -9,7 +9,7 @@ The data has the following two tables:
 1. A user table ( "takehome_users" ) with data on 12,000 users who signed up for the product in the last two years. This table includes:
 	* name: the user's name
 	* object_id: the user's id
-â	* email: email address
+	* email: email address
 	* creation_source: how their account was created. This takes on one of 5 values:
 		* PERSONAL_PROJECTS: invited to join another user's personal workspace
 		* GUEST_INVITE: invited to an organization as a guest (limited permissions)
@@ -27,4 +27,4 @@ The data has the following two tables:
 Defining an "adopted user" as a user who has logged into the product on three separate days in at least one sevenday
 period , __identify which factors predict future user adoption__. 
 
-We suggest spending 12 hours on this, but you're welcome to spend more or less. Please send us a brief writeup of your findings (the more concise, the better no more than one page), along with any summary tables, graphs, code, or queries that can help us understand your approach. Please note any factors you considered or investigation you did, even if they did not pan out. Feel free to identify any further research or data you think would be valuable.
+We suggest spending 1-2 hours on this, but you're welcome to spend more or less. Please send us a brief writeup of your findings (the more concise, the better no more than one page), along with any summary tables, graphs, code, or queries that can help us understand your approach. Please note any factors you considered or investigation you did, even if they did not pan out. Feel free to identify any further research or data you think would be valuable.
